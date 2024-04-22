@@ -21,4 +21,4 @@ In the relase you will find a folder named LightEditor, simply install it and un
 # Preview
 ![alt text](.github/Preview.png)
 
-this video showcases all available options: [a link](https://youtu.be/6N5f1BrAOlw?si=IkN7FEMVAHVc9j8N);
+this video showcases all available option [https://youtu.be/6N5f1BrAOlw?si=IkN7FEMVAHVc9j8N](https://youtu.be/6N5f1BrAOlw?si=IkN7FEMVAHVc9j8N);
