@@ -16,7 +16,7 @@ This app was compiled using the MinGW65 compiler.
 It is currently a windows-only application.
 
 # How to install
-In the relase you will find a folder named LightEditor, simply install it and unzip it and run the exe.
+In the release you will find a folder named LightEditor, simply install it and unzip it and run the exe.
 
 # Preview
 ![alt text](.github/Preview.png)
