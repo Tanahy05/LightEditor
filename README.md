@@ -4,3 +4,5 @@ can be used witht he following image formats: "JPG, JPEG, BMP, TGA"
 app is still in its early stages some filters may encounter errors.
 
 
+# Preview
+![alt text](.github/Preview.png)
