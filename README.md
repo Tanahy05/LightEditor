@@ -12,7 +12,7 @@ This project was made by the supervision of Dr. Mohamed El-Ramly.
 Image_class library was also made by Dr. Mohamed El-Ramly.
 
 This app was made using Qt 6.6.0, any Qt 6 version should work fine.
-This app was compiled using the MinGW65 compiler.
+This app was compiled using the MinGW64 compiler.
 It is currently a windows-only application.
 
 # How to install
