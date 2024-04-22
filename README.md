@@ -4,7 +4,7 @@ A GUI program that can be used to apply various filters to your photos, currentl
 # Important notes
 
 still in its early stages,
-can be used with he following image formats: "JPG, JPEG, BMP, TGA".
+can be used with the following image formats: "JPG, JPEG, BMP, TGA".
 
 App is still in its early stages some filters may encounter errors.
 
